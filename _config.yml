@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zachary Yahn"
   avatar           : "me.png"
-  bio              : "Mitchell Scholar at UCD"
-  location         : "University College Dublin, Ireland"
+  bio              : "CS PhD Student at Georgia Tech"
+  location         : "Atlanta, Georgia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZX5Nw-0AAAAJ&hl=en&oi=sra"
-  email            : "zacharyyahn@gmail.com"
+  email            : "zachary.yahn@gatech.edu.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

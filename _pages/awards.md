@@ -3,6 +3,10 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+## Presidential Fellowship
+#### April 2024
+Awarded to the top 10% of incoming PhD students to Georgia Tech.
+
 ## George J. Mitchell Scholar
 #### November 2022
 One of 12 Scholars selected to represent the United States on behalf of the U.S.-Ireland Alliance and pursue a year of fully-funded study in Ireland. Highly competitive scholarship often mentioned among similar programs including Marshall and Rhodes.  

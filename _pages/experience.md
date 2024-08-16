@@ -3,6 +3,13 @@ title: "Work Experience"
 permalink: /experience/
 author_profile: true
 ---
+## The Vision and Analytics Lab (THEIA) - University College Dublin
+*Graduate Research Assistant* (Apr. 2024 - Aug. 2024)
+* Full-time masters thesis research.
+* Investigated super-resolution methods for remote sensing and nitrogen-dioxide prediction.
+* Pioneered an ultra-lightweight model capable of slotting into an image pre-processing pipeline and achieving similar results to state-of-the-art super-resolution models. 
+* Achieved top nitrogen-dioxide prediction results and developed code for comparing implementations of various popular architectures.
+
 ## NASA Goddard Space Flight Center
 *Machine Learning Research Intern* (Aug. 2021 - Aug. 2023)
 *   Developed a semantic segmentation approach to identifying methane clouds in Titan’s atmosphere using low-resolution images from the Cassini mission with a custom software suite for analysis.

@@ -3,20 +3,20 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## [Focal Diversity-Optimized Object Detection Ensembles](http://zacharyyahn.github.io/files/ODEN-main.pdf)
+## [Data Poisoning and Leakage Analysis in Federated Learning](http://zacharyyahn.github.io/files/Chapter_3.pdf)
 
-*Under Review - Winter Conference on Applications of Computer Vision (WACV) 2024*
+*Book Chapter in Handbook on Trustworthy Federated Learning*
 
-Minor contributions to work published by the lab where I will begin my PhD studies next year.
+Minor contributions to work published by my lab.
 
 
-Ka-Ho Chow, Fatih Ilhan, Wenqi Wei, Yanzao Wu, **Zachary Yahn**, Myungjin lee, Gaowen Liu, Ramana Kompella, Ling Liu. *Focal Diversity-Optimized Object Detection Ensembles.* Winter Conference on Applications of Computer Vision 2024. January 3-7, 2024. Waikoloa, Hawaii.
+Wenqi Wei, Tiansheng Huang, **Zachary Yahn**, Anoop Singhal, Margaret Loper, and Ling Liu. *Data Poisoning and Leakage Analysis in Federated Learning*. Handbook on Trustworthy Federated Learning. Springer. 
 
-## [Automated Mapping of Clouds on Titan Using Semantic Segmentation](http://zacharyyahn.github.io/files/PSJ__Titan_Clouds.pdf)
+## [Rapid Automated Mapping of Clouds on Titan Using Instance Segmentation](http://zacharyyahn.github.io/files/Rapid_Automated_Mapping_of_Clouds_on_Titan-*/.pdf)
 
-*Under Review - Planetary Science Journal*
+*Under Review - Journal of Geophysical Research (Machine Learning Edition)*
 
-Culmination of my work with NASA. We demonstrate a novel application of semantic segmentation to identification of clouds on Titan and present our work to encourage the broader planetary science community to embrace machine learning in image analysis. 
+Culmination of my work with NASA. We demonstrate a novel application of instance segmentation to identification of clouds on Titan and present our work to encourage the broader planetary science community to embrace machine learning in image analysis. 
 
 
 **Zachary Yahn**, Douglas M. Trent, Ethan Duncan, Benoit Seignovert, John Santerre, Conor A. Nixon. *Automated Mapping of Clouds on Titan Using Semantic Segmentation.* Planetary Science Journal. 2024.
