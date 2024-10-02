@@ -10,6 +10,6 @@ This project is currently in development.
 
 Check out the code base [here](http://github.com/zacharyyahn/TOG_plus) <br>
 
- <img src='/images/tog_none.gif'><img src='/images/tog_vanish.gif'><img src='/images/tog_fab.gif'><img src='/images/tog_mislabel.gif'>
- An example of this attack borrowed from its predecessor, [TOG](https://github.com/git-disl/TOG/tree/master). From left to right: no attack, vanishing attack, fabrication attack, mislabeling attack.
+ <img src='/images/tog_none.gif'><img src='/images/tog_vanish.gif'><img src='/images/tog_fab.gif'><img src='/images/tog_mislabel.gif'> <br>
+ Examples of this attack borrowed from its predecessor, [TOG](https://github.com/git-disl/TOG/tree/master). Variations include vanishing, fabrication, mislabeling, and random untargeted.
 
