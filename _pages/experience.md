@@ -3,9 +3,16 @@ title: "Work Experience"
 permalink: /experience/
 author_profile: true
 ---
+## Distributed Data-Intensive Systems Lab (DiSL)
+*Graduate Research Assistant* (Aug. 2024 - Present)*
+* Full-time PhD research, mentored by Dr. Ling Liu.
+* Research adversarial attacks on deep vision models for object detection systems deployed in real-world contexts, specifically white-box attacks for transformer-based models.
+* Involved in projects with other members of the lab including generative game-playing agents, poisoning attacks on
+federated learning systems, and fine-tuning for robustness in large language models.
+
 ## The Vision and Analytics Lab (THEIA) - University College Dublin
 *Graduate Research Assistant* (Apr. 2024 - Aug. 2024)
-* Full-time masters thesis research.
+* Full-time masters thesis research, mentored by Dr. Soumyabrata Dev.
 * Investigated super-resolution methods for remote sensing and nitrogen-dioxide prediction.
 * Pioneered an ultra-lightweight model capable of slotting into an image pre-processing pipeline and achieving similar results to state-of-the-art super-resolution models. 
 * Achieved top nitrogen-dioxide prediction results and developed code for comparing implementations of various popular architectures.
@@ -13,7 +20,7 @@ author_profile: true
 ## NASA Goddard Space Flight Center
 *Machine Learning Research Intern* (Aug. 2021 - Aug. 2023)
 *   Developed a semantic segmentation approach to identifying methane clouds in Titan’s atmosphere using low-resolution images from the Cassini mission with a custom software suite for analysis.
-*   Deployed a Pytorch Mask-RCNN with Keras model on Google Cloud Platform including labelling raw images and creating a data pipeline. 
+*   Deployed a Pytorch Mask-RCNN with Keras model on Google Cloud Platform including labelling raw images and creating a data processing pipeline. 
 *   Published first-author results at conferences and in journals. 
 
 ## Duke University

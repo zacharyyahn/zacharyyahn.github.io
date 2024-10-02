@@ -1,8 +1,8 @@
 ---
-title: "Deepfake Prevention"
-excerpt: "Blockchain-Based Deepfake Detection, won 1st place in the iDISPLA Adversarial AI/ML Competition.<br/><br/>"
+title: "Campus Map Project"
+excerpt: "Advanced Software Development Final Project. Allows UVA students to locate their classes on a campus map.<br/><br/><img src='/images/campusmap.png'>"
 collection: portfolio
 ---
-Worked with a teammate to propose a blockchain-based solution to deepfakes. Wrote a whitepaper outlining the techonology and supporting literature and submitted it to the competition. The system would involve using a video hash and storing hashes in smart contracts authenticated by trustworthy news organizations. The competition was open to undergraduate and graduate students, and the second-place team was composed of four PhD students. 
+This website was a semester-long team project. I served as the DevOps engineer for the team. The website was built using the Django framework in Python, and also incorporated elements of JavaScript. It was hosted on Heroku free tier and used PostgresDB.  The project involved enumerating specific design requirements, writing unit tests, and generating clean production-quality code. All work was done in sprints per agile methodologies. 
 
-View the whitepaper [here.](http://www.github.com/zacharyyahn/zacharyyahn.github.io/files/iDISPLA_Deepfake_GAN_Challenge.pdf)
+Unfortunately, the website is no longer up, as it was removed from Heroku free tier. 
