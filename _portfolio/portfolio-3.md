@@ -10,11 +10,11 @@ The project uses a camera mounted above the table to feed images to a Raspberry 
 
 Check out the code base [here](http://github.com/zacharyyahn/capstone)
 
-(http://www.github.com/zacharyyahn/zacharyyahn.github.io/images/foosball3.png)
+<img src='/images/foosball3.png'> <br>
 Custom 3-D printed motor mounts attach DC brushless motors to an aluminum frame.
 
-(http://www.github.com/zacharyyahn/zacharyyahn.github.io/images/foosball2.png)
+<img src='/images/foosball2.png'> <br>
 We designed two PCBs from scratch to interface between the microcontroller and motors. 
 
-(http://www.github.com/zacharyyahn/zacharyyahn.github.io/images/foosball5.png)
+<img src='/images/foosball5.png'> <br>
 The entire project was modeled in Fusion360.  -->
