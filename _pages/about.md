@@ -30,7 +30,7 @@ Graduated August, 2024
 B.S. Computer Science, B.S. Computer Engineering\
 Graduated May, 2023
 
-Skills
+<!-- Skills
 ======
 1. Artificial Intelligence and Machine Learning
   * Pytorch, GCP, HPC, Paper/Algorithm Implementation
@@ -43,4 +43,4 @@ Skills
 1. Research
   * Literature Review, Paper Reading, Paper Writing, Problem Formulation
 1. Soft Skills
-  * Communication, Teamwork, Public Speaking, Project Management
+  * Communication, Teamwork, Public Speaking, Project Management -->
