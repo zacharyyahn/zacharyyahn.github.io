@@ -8,8 +8,8 @@ To date, white-box adversarial methods are only capable of attacking convolution
 
 This project is currently in development.
 
-Check out the code base [here](http://github.com/zacharyyahn/TOG_plus)
+Check out the code base [here](http://github.com/zacharyyahn/TOG_plus) <br>
 
-An example application of such an adversarial attack:
-<img src='/images/tog2.gif'>
+ <img src='/images/tog_none.gif'><img src='/images/tog_vanish.gif'><img src='/images/tog_fab.gif'><img src='/images/tog_mislabel.gif'>
+ An example of this attack borrowed from its predecessor, [TOG](https://github.com/git-disl/TOG/tree/master). From left to right: no attack, vanishing attack, fabrication attack, mislabeling attack.
 

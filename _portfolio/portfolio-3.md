@@ -8,13 +8,13 @@ The Robotic Foosball Table was a five-person capstone project for the Electrical
 
 The project uses a camera mounted above the table to feed images to a Raspberry Pi, which reads raw image data and extracts the location and trajectory of the moving ball using color segmentation. It uses the trajectory data to send commands to a MSP432 microcontroller, which turns those commands into electrical signals that can interact with two custom PCBs that drive the linear and rotational motors. Efficient C code enables processing images at 30 frames per second. 
 
-Check out the code base [here](http://github.com/capstone)
+Check out the code base [here](http://github.com/zacharyyahn/capstone)
 
-<!-- ![](http://www.github.com/zacharyyahn/zacharyyahn.github.io/images/foosball3.png)
+(http://www.github.com/zacharyyahn/zacharyyahn.github.io/images/foosball3.png)
 Custom 3-D printed motor mounts attach DC brushless motors to an aluminum frame.
 
-![](http://www.github.com/zacharyyahn/zacharyyahn.github.io/images/foosball2.png)
+(http://www.github.com/zacharyyahn/zacharyyahn.github.io/images/foosball2.png)
 We designed two PCBs from scratch to interface between the microcontroller and motors. 
 
-![](http://www.github.com/zacharyyahn/zacharyyahn.github.io/images/foosball5.png)
+(http://www.github.com/zacharyyahn/zacharyyahn.github.io/images/foosball5.png)
 The entire project was modeled in Fusion360.  -->
